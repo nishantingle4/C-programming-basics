@@ -14,7 +14,7 @@
 */
 #include <stdio.h>
 
-/* funcion declaracions */
+/* funcion declarations */
 void foo(void);
 int Area(int width, int height);
 void mean(int a, int b, float *c);
@@ -52,7 +52,8 @@ void foo(void){
     printf("Estoy aqui en la funcion foo !\n\r");
 }
 
-/* In this function the results is returned by the function */
+/* In this function the results is returned by the function 
+   which is the product of width and height*/
 int Area(int width, int height){
 
     int result;
