@@ -15,8 +15,7 @@
 
 
 
-int main()
-{
+int main() {
     int a, b;
     short x,y,z;
     float real, real2;
